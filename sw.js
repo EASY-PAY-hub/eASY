@@ -1,6 +1,6 @@
-const CACHE = 'easypay-v1';
-const CORE = ['./manifest.webmanifest', './icon-192.png', './icon-512.png'];
-const OPTIONAL = ['./نظام إدارة التقسيط.html', './', './index.html'];
+const CACHE = 'easypay-v2';
+const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
+const OPTIONAL = ['./نظام إدارة التقسيط.html'];
 
 self.addEventListener('install', e => {
   e.waitUntil((async () => {
