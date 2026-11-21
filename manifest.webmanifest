@@ -3,7 +3,7 @@
   "short_name": "Easy Pay",
   "lang": "ar",
   "dir": "rtl",
-  "start_url": "./نظام إدارة التقسيط.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f3f5f9",
